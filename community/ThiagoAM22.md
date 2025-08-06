@@ -1,5 +1,9 @@
 # ThiagoAm22
 
+Olá! Me chamo Thiago Andrade e atualmente estou em transição de carreira da área de Engenharia Elétrica para Tecnologia da Informação (TI).  
+Tenho formação em Engenharia, mas hoje estou focado no desenvolvimento de sistemas com Python, Flask e Django.
+
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-andrade-88629b100/)
 
